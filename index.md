@@ -54,3 +54,10 @@ layout: default
 
 　　希望这份指南能帮你扫清障碍，让连接变得更简单。毕竟，在陌生的国度里，能顺利给家人报个平安、在导航的指引下找到一家好餐馆，这些小事带来的幸福感，远比我们想象的要大。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Burkina Faso eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/burkina-faso-data-plans)
